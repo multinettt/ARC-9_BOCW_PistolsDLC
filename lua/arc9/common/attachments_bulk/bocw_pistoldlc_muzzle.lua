@@ -116,7 +116,7 @@ ATT = {} -- SUPPRESSORS -- AMP63 =========================================
 
 ATT.PrintName = "Sound Suppressor"
 ATT.CompactName = "SND SUPP"
-ATT.Icon = Material("entities/bocw_atts/muzzles/pistol_suppressor9mm.png", "mips smooth")
+ATT.Icon = Material("entities/bocw_atts/muzzles/amp63_suppressor9mm.png", "mips smooth")
 ATT.Description = [[Lightweight suppressor eliminates flash and sound from muzzle blast.
 
 The Silencer, Suppressor, and Sound Suppressor all return in Call of Duty: Black Ops Cold War. With Assault Rifles and Light Machine Guns getting Suppressors, Tactical Rifles getting Silencers and Sound Suppressors being given to Submachine Guns, Pistols and Shotguns. All give the same upside of total muzzle flash and sound concealment however, each one has differing downsides, with Silencers having reduced bullet velocity, Sound Suppressors having reduced range, whilst Suppressors have both of the downsides.]]
@@ -147,7 +147,7 @@ ATT = {}
 
 ATT.PrintName = "Agency Suppressor"
 ATT.CompactName = "AGCY SUPP"
-ATT.Icon = Material("entities/bocw_atts/muzzles/pistol_suppressorpro9mm.png", "mips smooth")
+ATT.Icon = Material("entities/bocw_atts/muzzles/amp63_suppressorpro9mm.png", "mips smooth")
 ATT.Description = [[Traps gases to reduce muzzle rise and eliminate muzzle flash.
 
 The Agency Suppressor is a Muzzle attachment available for NATO related Assault Rifles, Submachine Guns, Light Machine Guns, and Pistols within Call of Duty: Black Ops Cold War. It increases control over vertical recoil and gives full concealment of the muzzle flash with the same downside pattern as the Suppressor series of attachments. The Warsaw Pact equivalent is the GRU Suppressor.]]
