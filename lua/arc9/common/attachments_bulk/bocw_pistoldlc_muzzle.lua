@@ -141,7 +141,7 @@ ATT.RangeMaxMult = 0.85
 
 ATT.MenuCategory = "ARC9 - BOCW Attachments"
 
-ARC9.LoadAttachment(ATT, "bocw_pistol_muzzle_suppressor")
+ARC9.LoadAttachment(ATT, "bocw_amp63_muzzle_suppressor")
 
 ATT = {}
 
@@ -173,4 +173,4 @@ ATT.RangeMaxMult = 0.75
 
 ATT.MenuCategory = "ARC9 - BOCW Attachments"
 
-ARC9.LoadAttachment(ATT, "bocw_pistol_muzzle_suppressorpro")
+ARC9.LoadAttachment(ATT, "bocw_amp63_muzzle_suppressorpro")
