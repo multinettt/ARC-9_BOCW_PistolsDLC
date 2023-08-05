@@ -281,10 +281,7 @@ According to this equality, what is a × b?
 
 A) -20   B) -12   C) -8    D)  4    E) 16
 
-The answer will be revealed in 2 weeks.
-
-
-
+Answer: E
 
 
 
@@ -312,5 +309,7 @@ According to this, what are x, y and z's signs in order?
 A) +, +, -         B) +, -, -         C) -, -, -
 
          D) -, +, +             E) -, -, +
+
+Answer: B
 
 ]]
